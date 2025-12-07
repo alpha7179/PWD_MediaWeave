@@ -1,0 +1,6 @@
+﻿_,track_id,initials,name_ko,name_en,description,is_active,created_at,updated_at
+1,1,GI,게임앤인터랙티브콘텐츠,Game & Interactive Contents,"ICT기반 신산업(인디게임, VR/AR, IoT등)에 최적화된 창의메이커",TRUE,,
+2,2,DE,디지털엔터테인먼트,Digital Entertainment,(1인미디어를 포함한) 방송 및 영상 엔터테인먼트 프로그램기획 및 그래픽/사운드 제작자,TRUE,,
+3,3,CD,콘텐츠디자인,Contents Design,정보의 효율적 전달을 위한 시각화 기획 및 제작인력,TRUE,,
+4,4,MD,미디어데이터,Media Data,AI와 데이터 기반 산업혁명시대에 필요한 기본 지식과 응용 능력을 갖춘 데이터분석 및 개발 인력,TRUE,,
+5,5,VC,비주얼컴퓨팅,Visual Computing,컴퓨터공학과 수학 지식을 기반으로 가상 세계의 3D 시각화와 시각적 데이터 분석 능력에 전문화 된 인력,TRUE,,
